@@ -1,1 +1,1 @@
-# Python-Apps
+- ![Pomodoro App Demo](demo/pomodoro.gif)
